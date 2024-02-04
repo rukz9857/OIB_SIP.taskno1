@@ -1,0 +1,12 @@
+<resources>
+    <string-array name="conversion_types">
+        <item>Meters to Feet</item>
+        <item>Celsius to Fahrenheit</item>
+        <item>Grams to Kilograms</item>
+        <item>Grams to Pounds</item>
+        <item>Centimeters to Meters</item>
+        <!-- Add more conversion types as needed -->
+    </string-array>
+    <string name="app_name" />
+    <string name="unit_convertor">Unit Convertor</string>
+</resources>
