@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // Initialize UI components
-        input = findViewById(R.id.editTextValue);
+        input = findViewById(R.id.TextValue);
         conversionSpinner= findViewById(R.id.spinnerinput);
         btnConvert = findViewById(R.id.btnConvert);
         result = findViewById(R.id.textViewResult);
