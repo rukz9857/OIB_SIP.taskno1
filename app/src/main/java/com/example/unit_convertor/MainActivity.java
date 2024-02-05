@@ -29,9 +29,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // Access the TextView within the Toolbar
-        TextView toolbarTitle = findViewById(R.id.toolbar_title);
-
         // Initialize UI components
         input = findViewById(R.id.editTextValue);
         conversionSpinner= findViewById(R.id.spinnerinput);
